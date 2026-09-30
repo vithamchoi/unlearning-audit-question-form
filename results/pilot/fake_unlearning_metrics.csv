@@ -1,0 +1,5 @@
+strategy,audit_pass_rate,n_prompts,provider
+none,0.2700,500,groq
+prompt_filter,1.0000,500,groq
+output_filter,0.9880,500,groq
+sentinel,0.9880,500,groq
